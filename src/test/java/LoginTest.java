@@ -24,7 +24,7 @@ public class LoginTest {
         password = "12345"; // Пароль для курьера
         firstName = "Thomas"; // Имя курьера
         invalidLogin = "SAWDIJAWODKO213123_23"; // Неверный логин
-        invalidPassword = "awdi12j3i1j23adawd"; // Неверный пароль
+        invalidPassword = "awdi12j3i1j23adawddd"; // Неверный пароль
     }
 
     @Test
